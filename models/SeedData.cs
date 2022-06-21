@@ -28,6 +28,7 @@ namespace WEB315_Hobbies.Models
                         VisitDate = DateTime.Parse("2022-01-01"),
                         Location = "Mnali",
                         cost= 25,
+                        prefrences = 10
                     },
 
                     new hobbies
@@ -36,6 +37,7 @@ namespace WEB315_Hobbies.Models
                         VisitDate = DateTime.Parse("2022-02-16"),
                         Location = "Famous meuseum",
                         cost= 50,
+                         prefrences = 20
                     },
 
                     new hobbies
@@ -44,6 +46,7 @@ namespace WEB315_Hobbies.Models
                         VisitDate = DateTime.Parse("2022-01-30"),
                         Location = "J&K",
                         cost= 30,
+                         prefrences = 30
                     },
 
                     new hobbies
@@ -52,6 +55,7 @@ namespace WEB315_Hobbies.Models
                         VisitDate = DateTime.Parse("2022-03-01"),
                         Location = "Shukhna lake",
                         cost= 20,
+                         prefrences = 40
                     }
                 );
                 context.SaveChanges();
