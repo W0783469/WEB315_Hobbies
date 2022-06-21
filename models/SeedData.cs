@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using WEB315_Hobbies.Data;
+using WEB315_Hobbies.Models;
 using System;
 using System.Linq;
 
@@ -8,6 +8,7 @@ namespace WEB315_Hobbies.Models
 {
     public static class SeedData
     {
+
         public static void Initialize(IServiceProvider serviceProvider)
         {
             using (var context = new WEB315_HobbiesContext(
@@ -26,7 +27,7 @@ namespace WEB315_Hobbies.Models
                         Title =  "Reading",
                         VisitDate = DateTime.Parse("2022-01-01"),
                         Location = "Mnali",
-                        Cost= 25,
+                        cost= 25,
                     },
 
                     new hobbies
@@ -34,7 +35,7 @@ namespace WEB315_Hobbies.Models
                         Title =  "Listening Music",
                         VisitDate = DateTime.Parse("2022-02-16"),
                         Location = "Famous meuseum",
-                        Cost= 50,
+                        cost= 50,
                     },
 
                     new hobbies
@@ -42,7 +43,7 @@ namespace WEB315_Hobbies.Models
                          Title =  "Travelling",
                         VisitDate = DateTime.Parse("2022-01-30"),
                         Location = "J&K",
-                        Cost= 30,
+                        cost= 30,
                     },
 
                     new hobbies
@@ -50,7 +51,7 @@ namespace WEB315_Hobbies.Models
                         Title =  "Hang-out",
                         VisitDate = DateTime.Parse("2022-03-01"),
                         Location = "Shukhna lake",
-                        Cost= 20,
+                        cost= 20,
                     }
                 );
                 context.SaveChanges();
