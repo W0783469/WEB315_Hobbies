@@ -1,9 +1,9 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace RazorPagesMovie.Models
+namespace WEB315_Hobbies.Models
 {
-    public class Movie
+    public class hobbies
     {
         public int ID { get; set; }
         public string Title { get; set; }
