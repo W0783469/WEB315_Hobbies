@@ -14,5 +14,7 @@ namespace WEB315_Hobbies.Models
         public DateTime VisitDate { get; set; }
         public string Location { get; set; }
         public decimal cost { get; set; }
+        public string preferences { get; set; }
+
     }
 }
