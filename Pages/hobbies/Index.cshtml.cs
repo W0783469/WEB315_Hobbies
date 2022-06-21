@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -19,10 +20,32 @@ namespace WEB315_Hobbies.Pages_hobbies
         }
 
         public IList<hobbies> hobbies { get;set; }
+        [BindProperty(SupportsGet = true)]
+        public string SearchString { get; set; }
+        public SelectList Title { get; set; }
+        [BindProperty(SupportsGet = true)]
+        public string HobbiesTitle { get; set; }
 
         public async Task OnGetAsync()
         {
-            hobbies = await _context.hobbies.ToListAsync();
+           // Use LINQ to get list of genres.
+            IQueryable<string> currentTitleQuery = from h in _context.hobbies
+                                            orderby h.CurrentTitle
+                                            select h.CurrentTitle;
+        var hobbies = from h in _context.hobbies
+                        select h;
+
+            if (!string.IsNullOrEmpty(SearchString))
+            {
+                hobbies = hobbies.Where(s => s.FullName.ToLower().Contains(SearchString.ToLower()));
+            }
+
+            if (!string.IsNullOrEmpty(hobbiesCurrentTitle))
+            {
+                hobbies = hobbies.Where(x => x.CurrentTitle == hobbiesCurrentTitle);
+            }
+            CurrentTitles = new SelectList(await currentTitleQuery.Distinct().ToListAsync());
+            hobbies = await hobbies.ToListAsync();
         }
     }
 }
