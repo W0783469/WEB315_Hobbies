@@ -1,0 +1,49 @@
+@page
+@model WEB315_Hobbies.Pages_hobbies.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>hobbies</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="hobbies.Title" class="control-label"></label>
+                <input asp-for="hobbies.Title" class="form-control" />
+                <span asp-validation-for="hobbies.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="hobbies.VisitDate" class="control-label"></label>
+                <input asp-for="hobbies.VisitDate" class="form-control" />
+                <span asp-validation-for="hobbies.VisitDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="hobbies.Location" class="control-label"></label>
+                <input asp-for="hobbies.Location" class="form-control" />
+                <span asp-validation-for="hobbies.Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="hobbies.cost" class="control-label"></label>
+                <input asp-for="hobbies.cost" class="form-control" />
+                <span asp-validation-for="hobbies.cost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
