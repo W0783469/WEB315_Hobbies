@@ -37,7 +37,7 @@ namespace WEB315_Hobbies.Models
                         VisitDate = DateTime.Parse("2022-02-16"),
                         Location = "Famous meuseum",
                         cost= 50,
-                         preferences = "20"
+                        preferences = "20"
                     },
 
                     new hobbies
