@@ -29,9 +29,9 @@ namespace WEB315_Hobbies.Pages_hobbies
         public async Task OnGetAsync()
         {
            // Use LINQ to get list of genres.
-            IQueryable<string> currentTitleQuery = from h in _context.hobbies
-                                            orderby h.CurrentTitle
-                                            select h.CurrentTitle;
+            IQueryable<string> TitleQuery = from h in _context.hobbies
+                                            orderby h.Title
+                                            select h.Title;
         var hobbies = from h in _context.hobbies
                         select h;
 
@@ -40,11 +40,11 @@ namespace WEB315_Hobbies.Pages_hobbies
                 hobbies = hobbies.Where(s => s.FullName.ToLower().Contains(SearchString.ToLower()));
             }
 
-            if (!string.IsNullOrEmpty(hobbiesCurrentTitle))
+            if (!string.IsNullOrEmpty(hobbiesTitle))
             {
-                hobbies = hobbies.Where(x => x.CurrentTitle == hobbiesCurrentTitle);
+                hobbies = hobbies.Where(x => x.Title == hobbiesTitle);
             }
-            CurrentTitles = new SelectList(await currentTitleQuery.Distinct().ToListAsync());
+            Title = new SelectList(await TitleQuery.Distinct().ToListAsync());
             hobbies = await hobbies.ToListAsync();
         }
     }
