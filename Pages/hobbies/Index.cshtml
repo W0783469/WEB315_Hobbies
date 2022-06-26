@@ -10,15 +10,6 @@
 <p>
     <a asp-page="Create">Create New</a>
 </p>
-<form>
-    <p>
-        <select asp-for="hobbiesTitle" asp-items="Model.Title">
-            <option value="">All</option>
-        </select>
-        Title: <input type="text" asp-for="SearchString" />
-        <input type="submit" value="Filter" />
-    </p>
-</form>
 <table class="table">
     <thead>
         <tr>
@@ -35,7 +26,10 @@
                 @Html.DisplayNameFor(model => model.hobbies[0].cost)
             </th>
              <th>
-                @Html.DisplayNameFor(model => model.hobbies[0].preferences)
+                @Html.DisplayNameFor(model => model.hobbies[0].placetype)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.hobbies[0].visitcount)
             </th>
             <th></th>
         </tr>
@@ -55,9 +49,12 @@
             <td>
                 @Html.DisplayFor(modelItem => item.cost)
             </td>
-            <td>
-                    @Html.DisplayFor(modelItem => item.prefrences)
-                </td>
+              <td>
+                @Html.DisplayFor(modelItem => item.placetype)
+            </td>
+              <td>
+                @Html.DisplayFor(modelItem => item.visitcount)
+            </td>
             <td>
                 <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
                 <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
