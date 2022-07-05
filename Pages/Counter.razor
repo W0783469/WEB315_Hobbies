@@ -6,11 +6,29 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
-@code {
+ @code {
     private int currentCount = 0;
 
-    private void IncrementCount()
+    [Parameter]
+    public int IncrementAmount { get; set; } = 1;
+
+    
+private void IncrementCount()
     {
-        currentCount++;
+        if (currentCount <=14)
+        {
+            @* currentCount = currentCount + IncrementAmount; *@
+            currentCount += IncrementAmount  ;
+            if(currentCount==16)
+            {
+                currentCount = currentCount -1;
+                
+
+            }
+            return;
+        }
+        currentCount = 0;
     }
+     
+
 }
