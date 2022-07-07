@@ -1,0 +1,44 @@
+@page "/places"
+
+@using WEB315_Hobbies.Data
+@inject placeservices PlaceService
+<h1>Places to visit</h1>
+
+ 
+@if (placevisited == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>cost</th>
+                <th>Location</th>
+                <th>Placesvisit</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var placevisited in placevisited)
+            {
+                <tr>
+                    <td>@placevisited.Date.ToShortDateString()</td>
+                    <td>@placevisited.cost</td>
+                    <td>@placevisited.location</td>
+                    <td>@placevisited.placetype</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private places[] placevisited;
+
+    protected override async Task OnInitializedAsync()
+    {
+        placevisited = await PlaceService.GetPlacesAsync(DateTime.Now);
+    }
+}
