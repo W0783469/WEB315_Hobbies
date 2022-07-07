@@ -6,9 +6,17 @@ namespace WEB315_Hobbies.Data
 {
     public class WeatherForecastService
     {
-        private static readonly string[] Summaries = new[]
+         private static readonly string[] placetype = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "adventourous", "Treking", "Holy ", "Traditional","Abc"
+        };
+         private static readonly string[] location = new[]
+        {
+            "delhi", "jalandhar", "calcc ", "amritsar","ajj"
+        };
+           private static readonly int[] cost = new[]
+        {
+            1000, 2000, 3000 , 4000,5000
         };
 
         public Task<WeatherForecast[]> GetForecastAsync(DateTime startDate)
@@ -17,8 +25,9 @@ namespace WEB315_Hobbies.Data
             return Task.FromResult(Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = startDate.AddDays(index),
-                TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
+                cost = cost[rng.Next(cost.Length)],
+                placetype = placetype[rng.Next(placetype.Length)],
+                location = location[rng.Next(location.Length)]
             }).ToArray());
         }
     }
