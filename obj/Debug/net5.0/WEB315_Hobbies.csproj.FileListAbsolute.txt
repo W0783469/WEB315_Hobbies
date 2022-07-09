@@ -1,0 +1,232 @@
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\appsettings.Development.json
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\appsettings.json
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.StaticWebAssets.xml
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.exe
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.deps.json
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.runtimeconfig.json
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.runtimeconfig.dev.json
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.dll
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\ref\WEB315_Hobbies.dll
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.pdb
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.Views.dll
+D:\varinder\asp.net\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.Views.pdb
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.csproj.AssemblyReference.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.GeneratedMSBuildEditorConfig.editorconfig
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.AssemblyInfoInputs.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.AssemblyInfo.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.csproj.CoreCompileInputs.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.MvcApplicationPartsAssemblyInfo.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorComponent.input.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorComponent.output.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\WEB315_Hobbies.dll
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.TagHelpers.input.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.TagHelpers.output.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorCoreGenerate.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorAssemblyInfo.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorAssemblyInfo.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\staticwebassets\WEB315_Hobbies.StaticWebAssets.Manifest.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\staticwebassets\WEB315_Hobbies.StaticWebAssets.xml
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\bundle\WEB315_Hobbies.styles.css
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\projectbundle\WEB315_Hobbies.bundle.scp.css
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorTargetAssemblyInfo.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorTargetAssemblyInfo.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.Views.pdb
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.dll
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\ref\WEB315_Hobbies.dll
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.pdb
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.genruntimeconfig.cache
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.csproj.CopyComplete
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Pages\Placevisit.razor.g.cs
+D:\varinder\asp.net\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Placevisit.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\appsettings.json
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.StaticWebAssets.xml
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.exe
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.deps.json
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.runtimeconfig.json
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.runtimeconfig.dev.json
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.dll
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\ref\WEB315_Hobbies.dll
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.pdb
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.Views.dll
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.Views.pdb
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.AssemblyInfo.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorComponent.input.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Pages\Placevisit.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorComponent.output.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\WEB315_Hobbies.dll
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.TagHelpers.input.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.TagHelpers.output.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorCoreGenerate.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Placevisit.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorAssemblyInfo.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorAssemblyInfo.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\staticwebassets\WEB315_Hobbies.StaticWebAssets.Manifest.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\staticwebassets\WEB315_Hobbies.StaticWebAssets.xml
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\bundle\WEB315_Hobbies.styles.css
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\projectbundle\WEB315_Hobbies.bundle.scp.css
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorTargetAssemblyInfo.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorTargetAssemblyInfo.cs
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.Views.pdb
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.dll
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\ref\WEB315_Hobbies.dll
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.pdb
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.genruntimeconfig.cache
+C:\Users\WIN 10\Downloads\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.csproj.CopyComplete
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\appsettings.json
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.StaticWebAssets.xml
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.exe
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.deps.json
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.runtimeconfig.json
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.runtimeconfig.dev.json
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.dll
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\ref\WEB315_Hobbies.dll
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.pdb
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.Views.dll
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\bin\Debug\net5.0\WEB315_Hobbies.Views.pdb
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.csproj.AssemblyReference.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.AssemblyInfoInputs.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.AssemblyInfo.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.csproj.CoreCompileInputs.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorComponent.input.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Pages\Placevisit.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorComponent.output.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\RazorDeclaration\WEB315_Hobbies.dll
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.TagHelpers.input.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.TagHelpers.output.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorCoreGenerate.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Placevisit.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorAssemblyInfo.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorAssemblyInfo.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\staticwebassets\WEB315_Hobbies.StaticWebAssets.Manifest.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\staticwebassets\WEB315_Hobbies.StaticWebAssets.xml
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\bundle\WEB315_Hobbies.styles.css
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\scopedcss\projectbundle\WEB315_Hobbies.bundle.scp.css
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorTargetAssemblyInfo.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.RazorTargetAssemblyInfo.cs
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.Views.pdb
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.dll
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\ref\WEB315_Hobbies.dll
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.pdb
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.genruntimeconfig.cache
+C:\Users\Varinder Kaur\Downloads\WEB315_Hobbies\WEB315_Hobbies\obj\Debug\net5.0\WEB315_Hobbies.csproj.CopyComplete
+C:\WEB315_Hobby\bin\Debug\net5.0\appsettings.Development.json
+C:\WEB315_Hobby\bin\Debug\net5.0\appsettings.json
+C:\WEB315_Hobby\bin\Debug\net5.0\WEB315_Hobbies.StaticWebAssets.xml
+C:\WEB315_Hobby\bin\Debug\net5.0\WEB315_Hobbies.exe
+C:\WEB315_Hobby\bin\Debug\net5.0\WEB315_Hobbies.deps.json
+C:\WEB315_Hobby\bin\Debug\net5.0\WEB315_Hobbies.runtimeconfig.json
+C:\WEB315_Hobby\bin\Debug\net5.0\WEB315_Hobbies.runtimeconfig.dev.json
+C:\WEB315_Hobby\bin\Debug\net5.0\WEB315_Hobbies.dll
+C:\WEB315_Hobby\bin\Debug\net5.0\ref\WEB315_Hobbies.dll
+C:\WEB315_Hobby\bin\Debug\net5.0\WEB315_Hobbies.pdb
+C:\WEB315_Hobby\bin\Debug\net5.0\WEB315_Hobbies.Views.dll
+C:\WEB315_Hobby\bin\Debug\net5.0\WEB315_Hobbies.Views.pdb
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.csproj.AssemblyReference.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.AssemblyInfoInputs.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.AssemblyInfo.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.csproj.CoreCompileInputs.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.MvcApplicationPartsAssemblyInfo.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.RazorComponent.input.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\RazorDeclaration\Pages\Placevisit.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.RazorComponent.output.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\RazorDeclaration\WEB315_Hobbies.dll
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.TagHelpers.input.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.TagHelpers.output.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.RazorCoreGenerate.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\Pages\Placevisit.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.RazorAssemblyInfo.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.RazorAssemblyInfo.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\staticwebassets\WEB315_Hobbies.StaticWebAssets.Manifest.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\staticwebassets\WEB315_Hobbies.StaticWebAssets.xml
+C:\WEB315_Hobby\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\WEB315_Hobby\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\WEB315_Hobby\obj\Debug\net5.0\scopedcss\bundle\WEB315_Hobbies.styles.css
+C:\WEB315_Hobby\obj\Debug\net5.0\scopedcss\projectbundle\WEB315_Hobbies.bundle.scp.css
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.RazorTargetAssemblyInfo.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.RazorTargetAssemblyInfo.cs
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.Views.pdb
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.dll
+C:\WEB315_Hobby\obj\Debug\net5.0\ref\WEB315_Hobbies.dll
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.pdb
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.genruntimeconfig.cache
+C:\WEB315_Hobby\obj\Debug\net5.0\WEB315_Hobbies.csproj.CopyComplete

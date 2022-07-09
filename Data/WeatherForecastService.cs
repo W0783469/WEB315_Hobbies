@@ -8,11 +8,11 @@ namespace WEB315_Hobbies.Data
     {
          private static readonly string[] placetype = new[]
         {
-            "adventourous sport", "Treking", "River rafting ", "Traditional","Listening music"
+            "adventourous", "Treking", "Holy ", "Traditional","Abc"
         };
          private static readonly string[] location = new[]
         {
-            "Delhi", "Jalandhar", "Shimla ", "Amritsar","Japan"
+            "delhi", "jalandhar", "calcc ", "amritsar","ajj"
         };
            private static readonly int[] cost = new[]
         {

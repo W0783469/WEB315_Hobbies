@@ -29,6 +29,7 @@ namespace WEB315_Hobbies
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
+            services.AddSingleton<placeservices>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
