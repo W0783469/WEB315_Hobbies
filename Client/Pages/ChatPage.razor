@@ -1,6 +1,4 @@
 @page "/chat"
- 
- 
 @using Microsoft.AspNetCore.SignalR.Client
 @inject NavigationManager NavigationManager
 @implements IAsyncDisposable
@@ -8,17 +6,24 @@
 <div class="form-group">
     <label>
         Username:
-        <input @bind="userInput" size="63"  disabled="@(!IsConnected)" />
+        <input @bind="userInput" @ref="UserName" @onkeydown="KeyHandler"  @onclick="KeyHandler" size="63"  disabled="@(!IsConnected)"   />
     </label>
 </div>
 <div class="form-group">
     <label>
         Message:
-        <input @bind="messageInput" size="50" disabled="@(!IsConnected)"  />
+        <input @bind="messageInput"  @onclick="KeyHandler" size="50" disabled="@(!IsConnected)"   />
     </label>
 </div>
+<div class="form-group">
 <button @onclick="Send" disabled="@(!IsConnected)">Send</button>
-<h4> @UserTyping</h4>
+</div>
+ 
+
+
+ <h4> @UserTyping</h4>
+
+ 
 <hr>
 
 <ul id="messagesList">
@@ -34,9 +39,12 @@
     private string userInput;
     private string messageInput;
     private string UserTyping;
+    private ElementReference UserName;
 
+   
     protected override async Task OnInitializedAsync()
     {
+       
         hubConnection = new HubConnectionBuilder()
             .WithUrl(NavigationManager.ToAbsoluteUri("/chathub"))
             .Build();
@@ -54,15 +62,21 @@
          UserTyping = encodedMsg;
             StateHasChanged();
         });
-         hubConnection.On<string>("ReceiveAnonMessage", (message) =>
+
+
+        hubConnection.On<string>("ReceiveAnonMessage", (message) =>
         {
             var encodedMsg = $"Anonymous:{message}";
             messages.Add(encodedMsg);
             StateHasChanged();
         });
+         
+
+       
 
         await hubConnection.StartAsync();
     }
+
 
        private async Task Send()
     {
@@ -83,8 +97,17 @@
          
     }
        
+    
+ 
+    
+        
         async Task KeyHandler() =>
         await hubConnection.SendAsync("UserTyping", userInput);
+
+    
+       
+  
+ 
 
     public bool IsConnected =>
         hubConnection.State == HubConnectionState.Connected;
