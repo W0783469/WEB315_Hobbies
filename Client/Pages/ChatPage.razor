@@ -18,7 +18,7 @@
     </label>
 </div>
 <button @onclick="Send" disabled="@(!IsConnected)">Send</button>
-
+<h4> @UserTyping</h4>
 <hr>
 
 <ul id="messagesList">
@@ -33,6 +33,7 @@
     private List<string> messages = new List<string>();
     private string userInput;
     private string messageInput;
+    private string UserTyping;
 
     protected override async Task OnInitializedAsync()
     {
