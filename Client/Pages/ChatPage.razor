@@ -47,6 +47,13 @@
             StateHasChanged();
         });
 
+        hubConnection.On<string>("UserTyping", (user) =>
+        {
+            var encodedMsg = $"{user} is typing message";
+         UserTyping = encodedMsg;
+            StateHasChanged();
+        });
+
         await hubConnection.StartAsync();
     }
 
