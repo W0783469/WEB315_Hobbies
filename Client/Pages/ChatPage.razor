@@ -59,6 +59,8 @@
 
     async Task Send() =>
         await hubConnection.SendAsync("SendMessage", userInput, messageInput);
+        async Task KeyHandler() =>
+        await hubConnection.SendAsync("UserTyping", userInput);
 
     public bool IsConnected =>
         hubConnection.State == HubConnectionState.Connected;
