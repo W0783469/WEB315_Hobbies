@@ -10,5 +10,14 @@ namespace BlazorWebAssemblySignalRApp.Server.Hubs
         {
             await Clients.All.SendAsync("ReceiveMessage", user, message);
         }
+        public async Task UserTyping(string user)
+        {
+            await Clients.Others.SendAsync("UserTyping", user);
+        }
+
+        public async Task ReceiveAnonMessage(string message)
+        {
+            await Clients.Others.SendAsync("ReceiveAnonMessage", message);
+        }
     }
 }
